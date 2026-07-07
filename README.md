@@ -131,6 +131,14 @@ License to be defined.
 
 The project and educational content are currently maintained by the creator.
 
+## Support the Project
+
+If MUNSMART has helped you become a better delegate, consider sharing it with your friends, your MUN club, or your conference.
+
+Every new student who discovers MUNSMART helps make Model United Nations education more accessible around the world.
+
+🌍 https://munsmart.lovable.app/
+
 ---
 
 ## Acknowledgement
